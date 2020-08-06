@@ -1,8 +1,8 @@
 ### Hi. I'm Karangu Lucas, nice to meet you. Please take a look around!
 
-I’m a Kenyan based Django, Angular & Flask full-stack developer focused on crafting and developing maintainable enterprise class Angular, Django & Flask applictaions using the Django, Angular & Flask coding style model. For personal projects, I have created several apps that run perfectly on web browsers and any mobile devices using upcoming technologies such as [Progressive Web Apps](https://web.dev/what-are-pwas/) which focus on intuitive user interface and rich user experience.
+I’m a Kenyan based Angular Django, & Flask full-stack web developer focused on crafting and developing maintainable enterprise class Angular, Django & Flask applictaions using the Django, Angular & Flask coding style model. For personal projects, I have created several apps that run perfectly on web browsers and any mobile devices using upcoming technologies such as [Progressive Web Apps](https://web.dev/what-are-pwas/) which focus on intuitive user interface and rich user experience.
 
-Below you can see some projects. I've been woring on lately:
+Below you can see some projects. I've been working on lately:
 
 * [Bookmarks](https://github.com/lwairore/bookmarks). Social application that allows users to log in, log out, edit, reset their password, bookmark and share images they find on other sites, and follow each other.
 
