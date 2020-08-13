@@ -4,9 +4,13 @@ I'm a student and **Angular**, **Django**, & **Python Flask** full-stack web dev
 
 I’m a Kenyan based Angular Django, & Flask full-stack web developer focused on crafting and developing maintainable enterprise class Angular, Django & Flask applictaions using the Django, Angular & Flask coding style model. For personal projects, I have created several apps that run perfectly on web browsers and any mobile devices using upcoming technologies such as [Progressive Web Apps](https://web.dev/what-are-pwas/) which focus on intuitive user interface and rich user experience.
 
+Here is my [Portfolio](https://github.com/lwairore/portfolio):  https://karangulucaswairore.web.app/
+
 Below you can see some projects. I've been working on lately:
 
-* [Bookmarks](https://github.com/lwairore/bookmarks). Social application that allows users to log in, log out, edit, reset their password, bookmark and share images they find on other sites, and follow each other.
+- [Django Simple Blog](https://github.com/lwairore/django-simple-blog). Django Simple Blog is a personal blogging website where you can create and share you opinions and other users can read and comment on them.
+- [Angular Weather App](https://github.com/lwairore/angular-weather-app). Angular Weather app is an Angular application that allows a user to be able to type a location into a search form and on submission of that form, they're able to see the current weather details for that location they searched for.
+- [Flask News Highlight](https://github.com/lwairore/flask-news-highlight). Flask News Highlight is a flask application that will help you to list and preview news articles from various sources.
 
 
 **Current Focus**: [Angular](https://angular.io/) // [Django](https://www.djangoproject.com/) // [Flask](https://flask.palletsprojects.com/)
