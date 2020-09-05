@@ -2,7 +2,7 @@
 
 I'm a student and **Angular**, **Django**, & **Python Flask** full-stack web developer who is constantly upgrading himself and learning new things. 
 
-I’m a Kenyan based Angular Django, & Flask full-stack web developer focused on crafting and developing maintainable enterprise class Angular, Django & Flask applictaions using the Django, Angular & Flask coding style model. For personal projects, I have created several apps that run perfectly on web browsers and any mobile devices using upcoming technologies such as [Progressive Web Apps](https://web.dev/what-are-pwas/) which focus on intuitive user interface and rich user experience.
+I’m a Kenyan based Angular, Django, & Flask full-stack web developer focused on crafting and developing maintainable enterprise class Angular, Django & Flask applications using the Django, Angular & Flask coding style model. For personal projects, I have created several apps that run perfectly on web browsers and any mobile devices using upcoming technologies such as [Progressive Web Apps](https://web.dev/what-are-pwas/) which focus on intuitive user interface and rich user experience.
 
 Here is my [Portfolio](https://github.com/lwairore/portfolio):  https://karangulucaswairore.web.app/
 
