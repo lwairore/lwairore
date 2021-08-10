@@ -1,30 +1,35 @@
-### Hi. I'm Karangu Lucas, nice to meet you. Please take a look around!
+### Hi. I'm Karangu Lucas Wairore, nice to meet you. Please take a look around!
 
-I'm a student and **Angular**, **Django**, & **Python Flask** full-stack web developer who is constantly upgrading himself and learning new things. 
+I am currently studying **Bachelor of Science in Computer Science**, at **Machakos University** located in **Kenya**, which involves computing, mathematics, programming and web development.
 
-I’m a Kenyan based Angular, Django, & Flask full-stack web developer focused on crafting and developing maintainable enterprise class Angular, Django & Flask applications using the Django, Angular & Flask coding style model. For personal projects, I have created several apps that run perfectly on web browsers and any mobile devices using upcoming technologies such as [Progressive Web Apps](https://web.dev/what-are-pwas/) which focus on intuitive user interface and rich user experience.
+Out of all of the modules I am studying I most enjoy web development, as I really enjoy the tasks involved in creating a web application, creating front end for the application, creating the back end for the application, designing and creating REST APIs to connect the back end and front end, and designing and modelling database models to store the website data.
+
+In 2019, I successfully completed a **Angular/Django full stack Moringa Core Program** which greatly helped me develop imagination and creativity. Throughout this program we studied **JavaScript/TypeScript/Angular** front end development and **Python/Flask/Django** back end development. 
+
+We also covered concepts such as software design patterns. Here we were taught two patterns which are **MVT(Model View Template)**, and **MVC(Model View Controller)**.
+
+Outside Activities/Hobbies - outside of college and coding I really enjoy playing video games.
+
+I also enjoy listening to music especially Reggae and Soul.
 
 Here is my [Portfolio](https://github.com/lwairore/portfolio):  https://karangulucaswairore.web.app/
 
-Below you can see some projects. I've been working on lately:
+### Recent Web Projects:
 
-- [Django Simple Blog](https://github.com/lwairore/django-simple-blog). Django Simple Blog is a personal blogging website where you can create and share you opinions and other users can read and comment on them.
-- [Angular Weather App](https://github.com/lwairore/angular-weather-app). Angular Weather app is an Angular application that allows a user to be able to type a location into a search form and on submission of that form, they're able to see the current weather details for that location they searched for.
-- [Flask News Highlight](https://github.com/lwairore/flask-news-highlight). Flask News Highlight is a flask application that will help you to list and preview news articles from various sources.
+- [Angular QR Code Scanner](https://qr-code-skanner.web.app/). QR scanner that you can install as a PWA.
+- [Angular Gmeil Clone](https://gmeil-clone.web.app/). Angular Gmeil Clone is a simple similar clone of the popular Gmail.
 
 
-**Current Focus**: [Angular](https://angular.io/) // [Django](https://www.djangoproject.com/) // [Flask](https://flask.palletsprojects.com/)
+### Current Focus: [Angular](https://angular.io/)// [Ionic](https://ionicframework.com/) // [Django](https://www.djangoproject.com/) 
 
 
 #### OK, LET'S CREATE SOMETHING GREAT
 If you like my work and have some cool projects to work on, just send me a direct message or contact me through the social sites listed below.
 
-* [Twitter](https://twitter.com/kwairore)
+* [Portfolio](https://karangulucaswairore.web.app/)
 * [Github](https://github.com/lwairore)
 * [LinkedIn](https://www.linkedin.com/in/lucas-wairore/)
-* [Facebook](https://www.facebook.com/lucas.wairore)
-* [Instagram](https://www.instagram.com/kwairore/)
-* [Gmail](mailto:kwairore@gmail.com)
+* [Email](mailto:kwairore@gmail.com)
 
 <!--
 **lwairore/lwairore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
