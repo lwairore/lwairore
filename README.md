@@ -1,15 +1,10 @@
- <div style="font-style: bold; text-align: center;" markdown="1">
-
 # Full-stack Web Developer 
 ## I'm a full-stack Web Developer in Machakos, Kenya. I learned to code after completing High School in 2019.
 
 
-<!-- ![myimg](https://avatars.githubusercontent.com/u/46966212?v=4) -->
+![Image showing Karangu Lucas Wairore](./me.jpeg)
 
 
-
-</div>
- 
 
 # Hello, I'm Karangu, let's talk!
 
@@ -19,26 +14,18 @@ Ohh, before I forget here is a link to my portfolio:
 
 Here is my [Portfolio](https://github.com/lwairore/portfolio):  https://karangulucaswairore.web.app/
 
- <div style="font-style: bold; text-align: center; margin-top:20px;" markdown="1">
-
 # Full-stack Web Developer 
 ## Things I've learned:
 ### JavaScript, Python, HTML5, CSS3, Ionic, Angular, Django, and Flask
 ## Tools I use
-<ul style=" list-style-type: none;">
-<li>Visual Studio Code</li>
-<li>Github</li>
-<li>npm</li>
-<li>Git</li>
-<li>Chrome Developer Tools</li>
-<li>And more...</li>
-</ul>
 
-![Image showing Karangu Lucas Wairore](./me.jpeg)
+- Visual Studio Code
+- Github
+- npm
+- Git
+- Chrome Developer Tools
+- And more...
 
-
-
-</div>
 
 # Recent Web Projects:
 These are all self-directed projects. You can find more work on my [Github](https://github.com/lwairore). Below are just some of my most recent works. Let me know if you have any questions!
