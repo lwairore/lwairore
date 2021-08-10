@@ -1,32 +1,85 @@
-### Hi. I'm Karangu Lucas Wairore, nice to meet you. Please take a look around!
+ <div style="font-style: bold; text-align: center;" markdown="1">
 
-I am currently studying **Bachelor of Science in Computer Science**, at **Machakos University** located in **Kenya**, which involves computing, mathematics, programming and web development.
+# Full-stack Web Developer 
+## I'm a full-stack Web Developer in Machakos, Kenya. I learned to code after completing High School in 2019.
 
-Out of all of the modules I am studying I most enjoy web development, as I really enjoy the tasks involved in creating a web application, creating front end for the application, creating the back end for the application, designing and creating REST APIs to connect the back end and front end, and designing and modelling database models to store the website data.
 
-In 2019, I successfully completed a **Angular/Django full stack Moringa Core Program** which greatly helped me develop imagination and creativity. Throughout this program we studied **JavaScript/TypeScript/Angular** front end development and **Python/Flask/Django** back end development. 
+<!-- ![myimg](https://avatars.githubusercontent.com/u/46966212?v=4) -->
 
-We also covered concepts such as software design patterns. Here we were taught two patterns which are **MVT(Model View Template)**, and **MVC(Model View Controller)**.
 
-Outside Activities/Hobbies - outside of college and coding I really enjoy playing video games.
 
-I also enjoy listening to music especially Reggae and Soul.
+</div>
+ 
+
+ # Hello, I'm Karangu, let's talk!
+
+Back before 2019, I was studying, playing computer games and endless streaming of movies, not knowing where I was going in life... Then I started this journey and haven't looked back! Now I'm in Machakos County, Kenya, studying Computer Science at Machakos University. Take a look at my skills,and some of my most recent projects below.
+
+Ohh, before I forget here is a link to my portfolio:
 
 Here is my [Portfolio](https://github.com/lwairore/portfolio):  https://karangulucaswairore.web.app/
 
-### Recent Web Projects:
+ <div style="font-style: bold; text-align: center; margin-top:20px;" markdown="1">
 
-- [Angular QR Code Scanner](https://qr-code-skanner.web.app/). QR scanner that you can install as a PWA.
-- [Angular Gmeil Clone](https://gmeil-clone.web.app/). Angular Gmeil Clone is a simple similar clone of the popular Gmail.
+# Full-stack Web Developer 
+## Things I've learned:
+### JavaScript, Python, HTML5, CSS3, Ionic, Angular, Django, and Flask
+## Tools I use
+<ul style=" list-style-type: none;">
+<li>Visual Studio Code</li>
+<li>Github</li>
+<li>npm</li>
+<li>Git</li>
+<li>Chrome Developer Tools</li>
+<li>And more...</li>
+</ul>
+
+![Image showing Karangu Lucas Wairore](./me.jpeg)
 
 
-### Current Focus: [Angular](https://angular.io/)// [Ionic](https://ionicframework.com/) // [Django](https://www.djangoproject.com/) 
+
+</div>
+
+# Recent Web Projects:
+These are all self-directed projects. You can find more work on my [Github](https://github.com/lwairore). Below are just some of my most recent works. Let me know if you have any questions!
+
+## Angular QR Code Scanner
+![This image displays Angular QR Code Scanner App in scanning a QR code](./ionqrcodescannerdemo.gif)
+
+Built with: Angular, Ionic, and jsQR.
+
+Angular QR Code Scanner implements:
+
+- [jsQR](https://github.com/cozmo/jsQR) package to to read the image data of a stream (using an additional canvas) to grab any QR code that might be inside the image/frame.
+- [MediaDevices Web API](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia) to capture video using device camera.
+
+### Summary
+This is a simple QR Code scanner that you can install as a PWA.
+
+[View demo](https://qr-code-skanner.web.app/) ∙ [View code](https://github.com/lwairore/angular-qr-code-scanner)
+
+## Angular Gmeil Clone
+![This image displays Angular Gmeil Clone App in scanning a QR code](./mails.png)
+
+### Summary
+Angular Gmeil Clone is a simple similar clone of the popular Gmail.
+
+Angular Gmeil Clone implements:
+
+- The combination of a tab bar and side menu, plus the inbox UI known from Gmail.
+- An animated 'Compose' button.
+- A special behaviour to slide and delete emails with vibration haptic.
+- Angular directive to create floating earch bar which disappears when you scroll down, and comes back when you scroll in the opposite direction
+
+[View demo](https://gmeil-clone.web.app/) ∙ [View code](https://github.com/lwairore/angular-qr-code-scanner)
 
 
-#### OK, LET'S CREATE SOMETHING GREAT
-If you like my work and have some cool projects to work on, just send me a direct message or contact me through the social sites listed below.
 
-* [Portfolio](https://karangulucaswairore.web.app/)
+
+
+#### Let's talk!
+I'm always looking for opportunities. Contact me!
+
 * [Github](https://github.com/lwairore)
 * [LinkedIn](https://www.linkedin.com/in/lucas-wairore/)
 * [Email](mailto:kwairore@gmail.com)
