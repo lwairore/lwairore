@@ -58,7 +58,7 @@ Angular Gmeil Clone implements:
 - A special behaviour to slide and delete emails with vibration haptic.
 - Angular directive to create floating earch bar which disappears when you scroll down, and comes back when you scroll in the opposite direction
 
-[View demo](https://gmeil-clone.web.app/) ∙ [View code](https://github.com/lwairore/angular-qr-code-scanner)
+[View demo](https://gmeil-clone.web.app/) ∙ [View code](https://github.com/lwairore/angular-gmeil-clone)
 
 
 
