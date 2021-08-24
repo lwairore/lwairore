@@ -56,7 +56,7 @@ Angular Gmeil Clone implements:
 - The combination of a tab bar and side menu, plus the inbox UI known from Gmail.
 - An animated 'Compose' button.
 - A special behaviour to slide and delete emails with vibration haptic.
-- Angular directive to create floating earch bar which disappears when you scroll down, and comes back when you scroll in the opposite direction
+- Angular directive to create floating search bar which disappears when you scroll down, and comes back when you scroll in the opposite direction
 
 [View demo](https://gmeil-clone.web.app/) ∙ [View code](https://github.com/lwairore/angular-gmeil-clone)
 
