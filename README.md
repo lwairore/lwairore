@@ -8,7 +8,7 @@
 
 # Hello, I'm Karangu, let's talk!
 
-Back before 2019, I was studying, playing computer games and endless streaming of movies, not knowing where I was going in life... Then I started this journey and haven't looked back! ~~Now I'm in Machakos County, Kenya, studying Computer Science at Machakos University.~~ Not too long ago, I completed my bachelor's degree in Computer Science from Machakos University in Machakos County, Kenya. Take a look at my skills,and some of my most recent projects below.
+Back before 2019, I was studying, playing computer games and endless streaming of movies, not knowing where I was going in life... Then I started this journey and haven't looked back! ~~Now I'm in Machakos County, Kenya, studying Computer Science at Machakos University.~~ Not too long ago, I completed my bachelor's degree in Computer Science from Machakos University in Machakos County, Kenya. Take a look at my skills, and some of my most recent projects below.
 
 Ohh, before I forget here is a link to my portfolio:
 
